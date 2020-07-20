@@ -1,6 +1,6 @@
 # Color Puzzle
 
-色彩解谜游戏。你可以在这里试玩：[元卅馆](www.yuansasi.com/lab/colorpuzzle)
+色彩解谜游戏。你可以在这里试玩：[元卅馆](http://www.yuansasi.com/lab/colorpuzzle)
 
 你的目标是将色块还原成渐变图案。
 
